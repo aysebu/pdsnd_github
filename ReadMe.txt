@@ -16,7 +16,8 @@ COMPANY POLICY NOTE 1
 I worked on this project via Anaconda. 
 Due to my companies' policy about 3rd party Software materials I had limited access some of the software material used in this course.
 That is why I added .py file using Python itself instead of another program. And also added my code in a text editor.
-
+COMPANY POLICY NOTE 2
+----
 Regards
 
 Ayþe Iþýn Budak
