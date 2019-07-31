@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 ### Udacity 3rd Project
 Replace the Project Title
 
-### Description
+### This project is about learning Git & GitHub
 Describe what your project is about and what it does
 
 ### Files used
